@@ -113,7 +113,7 @@ The toolkit is designed as a **modular framework** - adding new games involves:
 This toolkit is part of a comprehensive UE4SS modding ecosystem. The following repositories work together to provide the complete experience:
 
 ### Core Dependencies
-- **[UE4SS Lua Utils](https://github.com/mattdavida/UE4SS_Lua_Utils)** - Shared framework containing debugging utilities, socket communication, type definitions, and common helpers used across all UE4SS mods
+- **[UE4SS Lua Utils](https://github.com/mattdavida/UE4SS_Lua_Utils)** - Shared framework containing debugging utilities, socket communication, type definitions, and common helpers used across all of my UE4SS mods
 - **[Lies of P - Ultimate Access](https://github.com/mattdavida/LiesofP-UltimateAccess)** - Complete UE4SS mod for Lies of P featuring boss access, DLC integration, teleportation system, and save manipulation
 
 ### Framework Architecture
