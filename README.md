@@ -13,6 +13,8 @@
 
 The UE4SS Toolkit is a comprehensive development platform that revolutionizes Unreal Engine game modding and debugging. Built with modern web technologies, it provides a professional-grade interface for real-time Lua code execution, advanced game state manipulation, and sophisticated mod management through UE4SS (Unreal Engine Scripting System).
 
+![Lies of P Game Management UI](https://github.com/user-attachments/assets/ac87c127-8d36-4e3f-ae2f-d252173c215e)
+
 **What makes this special:**
 - **Zero save-reload cycles** - Execute code instantly in running games
 - **Professional debugging tools** - Auto-completion, command history, intelligent result parsing
@@ -23,6 +25,9 @@ The UE4SS Toolkit is a comprehensive development platform that revolutionizes Un
 ## ✨ Key Features
 
 ### 🔧 Advanced Lua REPL
+
+![Lies of P Game Management UI](https://github.com/user-attachments/assets/8b543649-75a9-45ba-a172-6701ea944db7)
+
 - **Interactive code execution** with 40+ UE4SS function auto-completion
 - **Intelligent result parsing** - Automatic TArray/TMap unpacking and formatting
 - **Command history** with up/down arrow navigation
